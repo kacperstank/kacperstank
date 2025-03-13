@@ -6,7 +6,7 @@
 
 ## 🛠 What I Do  
 📱 **Android Development** – Java, Kotlin, Jetpack Compose, Material 3, UI/UX with Figma  
-⚙️ **Backend & Web** – Python, Django, SQL, React, JavaScript
+⚙️ **Backend & Web** – Python, Django, SQL, React, JavaScript  
 🛒 **E-commerce & Shopify** – Optimizing online stores, conversion rates, and store management  
 ⚡ **Tech Consulting** – Providing technical guidance to solve real-world problems  
 
