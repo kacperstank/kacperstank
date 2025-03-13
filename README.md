@@ -1,11 +1,12 @@
 <img src="assets/Material3 Banner (Grey).png" alt="Banner" width="100%">
 
-🔹 **From stop-motion to flashing custom ROMs**, now I write the code.  
-🔹 Love working from **cafés & coworking spaces**. ☕  
+🔹 **From stop-motion to flashing custom ROMs**, now I write the code. 🧑🏻‍💻   
+🔹 Love working from **cafés & coworking spaces**. ☕ Also a fashion and design enthusiast! 🩰  
 
 ## 🛠 What I Do  
 📱 **Android Development** – Java, Kotlin, Jetpack Compose, Material 3, UI/UX with Figma  
-⚙️ **Backend & Web** – Python, Django, SQL, React, JavaScript, ERP systems  
+⚙️ **Backend & Web** – Python, Django, SQL, React, JavaScript
+🛒 **E-commerce & Shopify** – Optimizing online stores, conversion rates, and store management  
 ⚡ **Tech Consulting** – Providing technical guidance to solve real-world problems  
 
 ## 🎯 What I Believe In  
